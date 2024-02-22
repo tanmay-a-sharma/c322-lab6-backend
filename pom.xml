@@ -8,7 +8,7 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.iu.habahram</groupId>
+	<groupId>tanmay-a-sharma</groupId>
 	<artifactId>lab6</artifactId>
 	<version>0.0.2</version>
 	<name>ducks-service</name>
