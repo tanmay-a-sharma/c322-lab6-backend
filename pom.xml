@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>tanmay-a-sharma</groupId>
 	<artifactId>lab6</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.1</version>
 	<name>ducks-service</name>
 	<description>Ducks service for duck pond simulations</description>
 	<properties>
